@@ -18,5 +18,5 @@ if (numero % 2 == 0) {
     }
 
 } else {
-    console.log('Operção inválida, verifique e digite novamente!');
+    console.log('Operação inválida, verifique e digite novamente!');
 }
